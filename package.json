@@ -1,0 +1,27 @@
+{
+  "name": "proyectosnodejs",
+  "version": "1.0.0",
+  "description": "Este proyecto es un ejemplo de usar node js con sql server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KingGnome115/proyectosnodejs.git"
+  },
+  "keywords": [
+    "Node",
+    "Js",
+    "Sql",
+    "Server",
+    "Procedures",
+    "etc"
+  ],
+  "author": "KingGnomo115",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KingGnome115/proyectosnodejs/issues"
+  },
+  "homepage": "https://github.com/KingGnome115/proyectosnodejs#readme"
+}
