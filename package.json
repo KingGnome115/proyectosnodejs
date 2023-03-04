@@ -23,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/KingGnome115/proyectosnodejs/issues"
   },
-  "homepage": "https://github.com/KingGnome115/proyectosnodejs#readme"
+  "homepage": "https://github.com/KingGnome115/proyectosnodejs#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "html-pdf": "^3.0.1",
+    "mssql": "^9.1.1",
+    "nodemailer": "^6.9.1"
+  }
 }
